@@ -1,0 +1,16 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+fun main() {
+val idade = 45
+    val altura = 1.85
+    val nome = "Erick"
+    val estudante = false
+
+    val soma = idade + idade
+    val alturaModificada= altura * 2
+     println("olá: $nome")
+    println("você tem: $altura de altura")
+    println("sua idade é: $idade")
+    println("a altura multiplicada é: $alturaModificada")
+    println("a soma das idades é: $soma")
+    }
